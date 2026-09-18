@@ -38,23 +38,11 @@ The foundation is built around performance-first engineering, intelligent produc
 - Hosting Platform: Vercel
 - Intelligence Layer: Gemini AI experimentation and product-driven innovation
 
-```ts
-const akshayOfficial = {
-  identity: "AKSHAY OFFICIAL",
-  domain: "Industrial Cyber-Tech Command Center",
-  focus: ["Precision", "Performance", "Future-ready UX"],
-  stack: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-  deployment: "Vercel",
-  intelligence: "Gemini AI",
-  mission: "Build elegant digital systems with measurable impact"
-};
-```
-
 ---
 
 ## [![Mission](https://img.shields.io/badge/Mission-Scope_%26_Goals-8B5CF6?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) Mission, Vision & Scope
 
-> Updates and new implementation experiments over website with Precision Intelligence Model "GEMINI".
+> Updates and new implementation experiments over website with Precision Intelligence Model **"GEMINI"**.
 > Built for high performance, futuristic UI aesthetics, and continuous learning & self-development.
 
 ### Strategic Pillars
@@ -75,15 +63,11 @@ const akshayOfficial = {
 
 ## [![Capabilities](https://img.shields.io/badge/Capabilities-Product_%26_AI_Engineering-A855F7?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) System Capabilities
 
-<div align="left">
-
 - Advanced front-end architecture using Next.js App Router
 - Elegant, responsive UI systems with Tailwind CSS
 - Motion-rich product storytelling with Framer Motion
 - AI-assisted experimentation and strategic digital direction
 - Premium web experiences designed for clarity, trust, and impact
-
-</div>
 
 ---
 
@@ -112,16 +96,19 @@ flowchart LR
 
 ---
 
-## [![Profile Stats](https://img.shields.io/badge/Profile_Stats-Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayManojkp) GitHub Presence
+## [![Profile Stats](https://img.shields.io/badge/Profile_Stats-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayManojkp) GitHub Presence
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshayManojkp&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayManojkp&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=E2E8F0&bg_color=0D1117" alt="Top Languages" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayManojkp&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=F8FAFC" alt="GitHub Streak" />
-</p>
+[![GitHub Profile](https://img.shields.io/badge/View_Profile-AkshayManojkp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayManojkp)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayManojkp?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/AkshayManojkp?style=for-the-badge&label=Followers&color=7C3AED)](https://github.com/AkshayManojkp?tab=followers)
+
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkshayManojkp&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=F8FAFC)](https://github.com/AkshayManojkp)
+
+</div>
 
 ---
 
