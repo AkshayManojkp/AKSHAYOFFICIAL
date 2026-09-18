@@ -3,42 +3,46 @@
 # アクシャイ公式 | AKSHAY OFFICIAL
 ### Industrial Cyber-Tech Command Center
 
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Precision%20Systems-7C3AED?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL)
+[![Status](https://img.shields.io/badge/Status-Online%20%26%20Building-22C55E?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL)
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&lines=Precision+Systems;+Next-Gen+Digital+Innovation;+Human+Centered+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&lines=Precision+Systems;+Next-Gen+Digital+Innovation;+Human-Centered+Technology;Industrial+Cyber-Tech+Design" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-> Welcome to my official GitHub profile & portfolio — where engineering precision meets futuristic product thinking.
-> 公式ポートフォリオへようこそ — 精密な設計と未来志向の技術で、次世代のデジタル体験を構築しています。
+> Welcome to my official GitHub profile & portfolio — engineered for precision, clarity, and futuristic product experiences.
+> 公式ポートフォリオへようこそ — 精密性、明確さ、そして未来志向のデジタル体験を追求する設計の場です。
 
 </div>
 
 ---
 
-## [![Architecture](https://img.shields.io/badge/Architecture-Core_Stack-blue?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) Core Architecture & System Stack
+## [![Architecture](https://img.shields.io/badge/Architecture-Core_Stack-0088FF?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) Core Architecture & System Stack
 
-A performance-first digital ecosystem designed for exceptional UI craft, rapid experimentation, and intelligent product execution.
+The foundation is built around performance-first engineering, intelligent product thinking, and a premium interface layer that feels crafted rather than generic.
 
 - Framework: Next.js (App Router)
 - Language: TypeScript
 - Styling & Design System: Tailwind CSS
 - Motion & Interaction Layer: Framer Motion
-- Deployment Platform: Vercel
-- AI Intelligence Layer: Gemini-powered experimentation & adaptive product thinking
+- Hosting Platform: Vercel
+- Intelligence Layer: Gemini AI experimentation and product-driven innovation
 
 ```ts
 const akshayOfficial = {
-  focus: ["precision", "performance", "future-ready UI"],
+  identity: "AKSHAY OFFICIAL",
+  domain: "Industrial Cyber-Tech Command Center",
+  focus: ["Precision", "Performance", "Future-ready UX"],
   stack: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
   deployment: "Vercel",
   intelligence: "Gemini AI",
@@ -48,7 +52,7 @@ const akshayOfficial = {
 
 ---
 
-## [![Mission](https://img.shields.io/badge/Mission-Scope_%26_Goals-purple?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) Mission, Vision & Scope
+## [![Mission](https://img.shields.io/badge/Mission-Scope_%26_Goals-8B5CF6?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) Mission, Vision & Scope
 
 > Updates and new implementation experiments over website with Precision Intelligence Model "GEMINI".
 > Built for high performance, futuristic UI aesthetics, and continuous learning & self-development.
@@ -56,9 +60,9 @@ const akshayOfficial = {
 ### Strategic Pillars
 
 - High-performance engineering with modern web architecture
-- Futuristic interfaces that balance design clarity and product utility
-- Continuous experimentation with intelligent system design
-- Growth-driven learning through iteration, refinement, and execution
+- Futuristic interfaces balancing aesthetics, usability, and precision
+- Continuous experimentation through intelligent product iteration
+- Self-development through technical depth, system thinking, and execution
 
 ### Operating Philosophy
 
@@ -69,15 +73,15 @@ const akshayOfficial = {
 
 ---
 
-## [![Capabilities](https://img.shields.io/badge/Capabilities-Product_%26_AI_Engineering-9C27B0?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) System Capabilities
+## [![Capabilities](https://img.shields.io/badge/Capabilities-Product_%26_AI_Engineering-A855F7?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) System Capabilities
 
 <div align="left">
 
 - Advanced front-end architecture using Next.js App Router
-- Responsive and aesthetic design systems with Tailwind CSS
-- Fluid motion design and micro-interaction patterns with Framer Motion
-- Product-first experimentation for immersive digital experiences
-- AI-enhanced ideation and development direction using Gemini integration
+- Elegant, responsive UI systems with Tailwind CSS
+- Motion-rich product storytelling with Framer Motion
+- AI-assisted experimentation and strategic digital direction
+- Premium web experiences designed for clarity, trust, and impact
 
 </div>
 
@@ -98,13 +102,26 @@ flowchart LR
 
 ---
 
-## [![Focus](https://img.shields.io/badge/Focus-Precision_Intelligence-FF6B6B?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) Focus Areas
+## [![Focus](https://img.shields.io/badge/Focus-Precision_Intelligence-FF5F6D?style=for-the-badge)](https://github.com/AkshayManojkp/AKSHAYOFFICIAL) High-Value Focus Areas
 
 - Next-generation portfolio experiences
 - Industrial cyber-tech storytelling
 - Futuristic product design systems
 - High-end web experiences with measurable polish
 - Continuous self-improvement through technical depth
+
+---
+
+## [![Profile Stats](https://img.shields.io/badge/Profile_Stats-Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayManojkp) GitHub Presence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayManojkp&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayManojkp&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=E2E8F0&bg_color=0D1117" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayManojkp&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=F8FAFC" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -115,8 +132,9 @@ flowchart LR
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online%20%26%20Building-4ADE80?style=for-the-badge" alt="Status badge" />
-  <img src="https://img.shields.io/badge/Mode-Precision%20Engineering-7C3AED?style=for-the-badge" alt="Mode badge" />
+  <img src="https://img.shields.io/badge/Mode-Precision%20Engineering-7C3AED?style=for-the-badge" alt="Precision mode badge" />
+  <img src="https://img.shields.io/badge/Experience-Futuristic%20Product%20Design-22C55E?style=for-the-badge" alt="Experience badge" />
+  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-F59E0B?style=for-the-badge" alt="Learning badge" />
 </p>
 
 ---
